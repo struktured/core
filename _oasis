@@ -279,9 +279,6 @@ Library core
                       enumerate,
                       fieldslib,
                       bigarray,
-                      pa_bench,
-                      pa_ounit,
-                      pa_test,
                       unix,
                       threads
   XMETAExtraLines:    archive(byte, toploop) += "core_top.cma"
